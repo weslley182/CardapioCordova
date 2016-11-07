@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="org.wesleymachado.cenourapp"
+        version="1.0.0">
+
+    <name>
+        Só de Cenoura
+    </name>
+
+    <icon src="imagens/icon.png" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <splash src="imagens/splash.png" />
+
+    <description>
+        Menu do restaurante Só de Cenoura.
+    </description>
+
+    <!-- <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="permissions" value="none" />
+    <platform name="android" /> -->
+
+    <author href="http://google.org" email="weslley182@gmail.com">
+        Wesley Machado
+    </author>
+</widget>
